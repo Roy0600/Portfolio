@@ -1,0 +1,40 @@
+C:\Users\gerbe\Desktop\Opleiding ICT jaar 2\Startproject\Fotoviewer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gerbe\Desktop\Opleiding ICT jaar 2\Startproject\Fotoviewer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gerbe\Desktop\Opleiding ICT jaar 2\Startproject\Fotoviewer\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gerbe\Desktop\Opleiding ICT jaar 2\Startproject\Fotoviewer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\gerbe\Desktop\Opleiding ICT jaar 2\Startproject\Fotoviewer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\gerbe\Desktop\Opleiding ICT jaar 2\Startproject\Fotoviewer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gerbe\Desktop\Opleiding ICT jaar 2\Startproject\Fotoviewer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\gerbe\Desktop\Opleiding ICT jaar 2\Startproject\Fotoviewer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\gerbe\Desktop\Opleiding ICT jaar 2\Startproject\Fotoviewer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gerbe\Desktop\Opleiding ICT jaar 2\Startproject\Fotoviewer\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Documents\Random projecten\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Documents\Random projecten\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Documents\Random projecten\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Documents\Random projecten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\User\Documents\Random projecten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Documents\Random projecten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Documents\Random projecten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Documents\Random projecten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Random projecten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Documents\Random projecten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\royhe\source\repos\FotoViewerapp\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\royhe\source\repos\FotoViewerapp\bin\Debug\WindowsFormsApp1.exe
+C:\Users\royhe\source\repos\FotoViewerapp\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\royhe\source\repos\FotoViewerapp\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\royhe\source\repos\FotoViewerapp\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\royhe\source\repos\FotoViewerapp\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\royhe\source\repos\FotoViewerapp\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\royhe\source\repos\FotoViewerapp\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\royhe\source\repos\FotoViewerapp\obj\Debug\WindowsFormsApp1.exe
+C:\Users\royhe\source\repos\FotoViewerapp\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\royhe\OneDrive\Bureaublad\Files\FotoViewerapp\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\royhe\OneDrive\Bureaublad\Files\FotoViewerapp\bin\Debug\WindowsFormsApp1.exe
+C:\Users\royhe\OneDrive\Bureaublad\Files\FotoViewerapp\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\royhe\OneDrive\Bureaublad\Files\FotoViewerapp\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\royhe\OneDrive\Bureaublad\Files\FotoViewerapp\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\royhe\OneDrive\Bureaublad\Files\FotoViewerapp\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\royhe\OneDrive\Bureaublad\Files\FotoViewerapp\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\royhe\OneDrive\Bureaublad\Files\FotoViewerapp\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\royhe\OneDrive\Bureaublad\Files\FotoViewerapp\obj\Debug\WindowsFormsApp1.exe
+C:\Users\royhe\OneDrive\Bureaublad\Files\FotoViewerapp\obj\Debug\WindowsFormsApp1.pdb

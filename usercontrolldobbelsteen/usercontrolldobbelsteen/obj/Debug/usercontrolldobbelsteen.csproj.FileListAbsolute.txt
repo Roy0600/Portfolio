@@ -1,0 +1,11 @@
+C:\Users\royhe\OneDrive\Bureaublad\Files\usercontrolldobbelsteen\usercontrolldobbelsteen\bin\Debug\usercontrolldobbelsteen.exe.config
+C:\Users\royhe\OneDrive\Bureaublad\Files\usercontrolldobbelsteen\usercontrolldobbelsteen\bin\Debug\usercontrolldobbelsteen.exe
+C:\Users\royhe\OneDrive\Bureaublad\Files\usercontrolldobbelsteen\usercontrolldobbelsteen\bin\Debug\usercontrolldobbelsteen.pdb
+C:\Users\royhe\OneDrive\Bureaublad\Files\usercontrolldobbelsteen\usercontrolldobbelsteen\obj\Debug\usercontrolldobbelsteen.csprojAssemblyReference.cache
+C:\Users\royhe\OneDrive\Bureaublad\Files\usercontrolldobbelsteen\usercontrolldobbelsteen\obj\Debug\usercontrolldobbelsteen.ucDobbelsteen.resources
+C:\Users\royhe\OneDrive\Bureaublad\Files\usercontrolldobbelsteen\usercontrolldobbelsteen\obj\Debug\usercontrolldobbelsteen.Yathzee.resources
+C:\Users\royhe\OneDrive\Bureaublad\Files\usercontrolldobbelsteen\usercontrolldobbelsteen\obj\Debug\usercontrolldobbelsteen.Properties.Resources.resources
+C:\Users\royhe\OneDrive\Bureaublad\Files\usercontrolldobbelsteen\usercontrolldobbelsteen\obj\Debug\usercontrolldobbelsteen.csproj.GenerateResource.cache
+C:\Users\royhe\OneDrive\Bureaublad\Files\usercontrolldobbelsteen\usercontrolldobbelsteen\obj\Debug\usercontrolldobbelsteen.csproj.CoreCompileInputs.cache
+C:\Users\royhe\OneDrive\Bureaublad\Files\usercontrolldobbelsteen\usercontrolldobbelsteen\obj\Debug\usercontrolldobbelsteen.exe
+C:\Users\royhe\OneDrive\Bureaublad\Files\usercontrolldobbelsteen\usercontrolldobbelsteen\obj\Debug\usercontrolldobbelsteen.pdb
